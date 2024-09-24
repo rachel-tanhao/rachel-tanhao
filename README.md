@@ -7,7 +7,7 @@
 
 🚀 I'm a full-stack engineer with experience in web, software, and iOS development. I have previously developed projects at Deloitte, Liberty Mutual, and the Wharton School. 🛠️
 
-🎓 I am currently pursuing a master's degree in CS @ UPenn (graduating in May 2025), to further solid my foundation in database, data structures and software design. 👩🏻‍💻
+🎓 I am currently pursuing my master's degree in CS @ UPenn (graduating in May 2025), to deepen my expertise in in database, data structures and software design. 👩🏻‍💻
 
 🎨 Besides CS, I have an interdisciplinary background in media art. I'm on my journey to become a creative developer who can engage art and technology. ✨
 
