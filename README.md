@@ -36,7 +36,7 @@
 ###
 
 ## 📢 News
- I will be attending the [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) in Philadelphia this year October! 🌸 I'm excited to explore 2025 New Grad full-time opportunities, and look forward to connecting with recruiters. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tan-hao/) or check out my [portfolio](https://rachel-tanhao.github.io/portfolio). 💕
+ I will be attending the [Grace Hopper Celebration (GHC)](https://ghc.anitab.org/) in Philadelphia this year October! 🌸 I'm excited to explore 2025 New Grad full-time opportunities, and look forward to connecting with recruiters. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tan-hao/) or check out my [portfolio](https://rachel-tanhao.github.io/). 💕
 
 ## 😎 My Skills
 - ✅ Hands-on experience with building AI solutions using LLM, prompt engineering, and RAG.
