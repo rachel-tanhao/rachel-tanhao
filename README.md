@@ -62,8 +62,7 @@
 ## 📊 Stats
 <!-- Profile Details and Top Languages Cards Side by Side -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachel-tanhao&theme=default" alt="Profile Details" style="width: 49%; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachel-tanhao&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 49%; display: inline-block;" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachel-tanhao&theme=blue_green)
 </p>
 
 <!-- Stats and Productive Time Cards Side by Side -->
