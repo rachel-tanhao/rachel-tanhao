@@ -52,14 +52,7 @@
 - 🏆 Best Hack @ FemmeHack 2024
 
 
-
-## 🎯 Technologies I Use
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,gulp,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux)
-
-
-
-## 📊 Stats
+## 📊 Github Stats
 <!-- Profile Details and Top Languages Cards Side by Side -->
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachel-tanhao&theme=blue_green" alt="Contributions" style="width: 98%; display: inline-block;" />
@@ -70,6 +63,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachel-tanhao&theme=blue_green" alt="Top Languages By Repo" style="width: 49%; display: inline-block;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachel-tanhao&theme=blue_green" alt="Stats" style="width: 49%; display: inline-block;" />
 </p>
+
+
+## 🎯 Technologies I Use
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,gulp,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux)
 
 
 
