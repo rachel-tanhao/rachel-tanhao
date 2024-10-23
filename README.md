@@ -55,13 +55,13 @@
 ## 📊 Github Stats
 <!-- Profile Details and Top Languages Cards Side by Side -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachel-tanhao&theme=blue_green" alt="Contributions" style="width: 98%; display: inline-block;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachel-tanhao&theme=blue_green" alt="Contributions" style="width: 90%; display: inline-block;" />
 </p>
 
 <!-- Stats and Productive Time Cards Side by Side -->
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachel-tanhao&theme=blue_green" alt="Top Languages By Repo" style="width: 49%; display: inline-block;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachel-tanhao&theme=blue_green" alt="Stats" style="width: 49%; display: inline-block;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachel-tanhao&theme=blue_green" alt="Top Languages By Repo" style="width: 45%; display: inline-block;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachel-tanhao&theme=blue_green" alt="Stats" style="width: 45%; display: inline-block;" />
 </p>
 
 
