@@ -58,3 +58,20 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,supabase,sass,firebase,gulp,heroku,mysql,bootstrap,vscode,bash,redis,figma,threejs,linux)
 
 
+
+## 📊 Stats
+<!-- Profile Details and Top Languages Cards Side by Side -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachel-tanhao&theme=default" alt="Profile Details" style="width: 49%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachel-tanhao&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 49%; display: inline-block;" />
+</p>
+
+<!-- Stats and Productive Time Cards Side by Side -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rachel-tanhao&theme=default" alt="Stats" style="width: 49%; display: inline-block;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rachel-tanhao&theme=default&utcOffset=8" alt="Productive Time" style="width: 49%; display: inline-block;" />
+</p>
+
+
+
+
