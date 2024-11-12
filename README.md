@@ -9,7 +9,7 @@
 
 🎓 I'm currently pursuing my master's degree in in Computer and Information Technology @ UPenn (graduating in May 2025) to deepen my expertise, where I have excelled in courses such as Software Design, Data Structures, and Database & Information Systems. 👩🏻‍💻
 
-🎨 Besides CS, I have an interdisciplinary background in media art. I'm on my journey to become a creative developer who can engage art and technology. ✨
+🎨 Besides CS, I have an interdisciplinary background in history and art. I'm on my journey to become a creative developer who can engage art and technology. ✨
 
 🍏 When not working, I'm a big outdoors enthusiast. I love climbing, hiking, and visiting a lot of mountains! 🏔️
 
