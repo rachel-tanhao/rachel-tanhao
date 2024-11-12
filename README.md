@@ -48,7 +48,7 @@
 
 
 ## 🏆 Achievements
-- 🥇 2nd Place @ UPenn Hackthon 2024
+- 🥇 Winner @ UPenn Hackthon 2024
 - 🏆 Best Hack @ FemmeHack 2024
 
 
