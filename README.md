@@ -36,7 +36,7 @@
 ###
 
 ## 📢 News
-🌸 I’ll soon be completing my master's degree at UPenn and graduating in **May 2025**. I'm excited to explore 2025 New Grad full-time opportunities, and look forward to connecting with recruiters. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tan-hao/) or check out my [portfolio](https://rachel-tanhao.github.io/). 💕
+🌸 I’ll soon be completing my master's degree and graduating in **May 2025**. I'm excited to explore full-time opportunities and look forward to connecting with recruiters. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tan-hao/) or check out my [portfolio](https://rachel-tanhao.github.io/). 💕
 
 ## 😎 My Skills
 - ✅ Hands-on experience with building AI solutions using LLM, prompt engineering, and RAG.
