@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Rachel Tan</h2>
+<h2 align="left">Hi there, I'm Hao Tan</h2>
 
 
 <table style="border: none;">
